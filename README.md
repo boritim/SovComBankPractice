@@ -5,7 +5,7 @@
  
  Экраны, сделанные мной: 
  
-Календарь(CalendarScreen)
-Уведомления(NotifyScreen)
-Личные данные пользователя(PersonalPageScreen)
-Информация для новичков(GuideScreen)
++ Календарь(CalendarScreen)
++ Уведомления(NotifyScreen)
++ Личные данные пользователя(PersonalPageScreen)
++ Информация для новичков(GuideScreen)
