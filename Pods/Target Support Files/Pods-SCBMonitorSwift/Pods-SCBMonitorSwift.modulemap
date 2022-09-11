@@ -1,0 +1,6 @@
+framework module Pods_SCBMonitorSwift {
+  umbrella header "Pods-SCBMonitorSwift-umbrella.h"
+
+  export *
+  module * { export * }
+}
